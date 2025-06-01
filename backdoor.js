@@ -1,0 +1,1 @@
+console.log('Malicious backdoor activated'); // AI-generated payload
